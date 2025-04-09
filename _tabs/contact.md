@@ -11,4 +11,4 @@ LIRMM, Campus Saint-Priest\\
 France
 {: .prompt-info }
 
-You can get in contact with me through the following email: [noah.collinet[at]lirmm.fr](mailto:noah.collinet@lirmm.fr) (by replacing [at] by @).
+You can get in contact with me through the following email: noah.collinet[at]lirmm.fr (by replacing [at] by @).
