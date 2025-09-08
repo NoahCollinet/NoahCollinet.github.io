@@ -2,6 +2,8 @@
 icon: fas fa-lightbulb
 order: 2
 ---
+List of publications :
+> - [On Extracting Legal Arguments](https://doi.org/10.1007/978-3-032-04590-4_7). In: Casini, G., Dundua, B., Kutsia, T. (eds) Logics in Artificial Intelligence. JELIA 2025. Lecture Notes in Computer Science(), vol 16094. Springer, Cham.
 
  Here is the current resume of my PhD :
 
