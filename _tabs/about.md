@@ -10,6 +10,6 @@ order: 1
 
  The goal of my studies are to (1) compare existing works on the use of preferences in argumentation and adapt them to data mining problems, (2) develop efficient algorithms for extracting explainable and non-conflicting knowledge, (3) use multi-agent modeling and simulation techniques [6] to measure the efficiency and satisfiability of reasoning modes in preference-based argumentation.
 
- I am also involved in student and associative life as the president of [Hello World](https://associationhelloworld.wordpress.com/) since 2022.
+ I am also involved in student and associative life as a comittee member of [Hello World](https://associationhelloworld.wordpress.com/) since 2022.
 
  Here is my [CV](/assets/cv.pdf).
