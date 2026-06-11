@@ -21,7 +21,7 @@ At: BOREAL team seminar, LIRMM, Montpellier, France
 
 
 Other :
-> - Poster for the Young researcher's day of the MIPS week
-At : [Pôle MIPS(https://www.umontpellier.fr/agenda/semaine-du-pole-mips), Montpellier France]
+> - Poster for the Young researcher's day of the MIPS week \
+At : [Pôle MIPS](https://www.umontpellier.fr/agenda/semaine-du-pole-mips), Montpellier France
 > - Jury for the french equivalent of the [International Tournament of Young Mathematicians](https://www.itym.org/) \
 At : [TFJM² 2026](https://tfjm.org/tournoi-2026/), Montpellier, France
